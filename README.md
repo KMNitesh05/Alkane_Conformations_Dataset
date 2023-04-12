@@ -1,2 +1,2 @@
-# Alkane_Conformations_Dataset
-Conformation Ensembles of Various Alkanes 
+# Alkane Conformations Dataset
+Conformation Ensembles of Various Alkanes For Machine Learning 
